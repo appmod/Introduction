@@ -25,9 +25,9 @@ AppMod is a research project on safety and privacy of smart-city mobile applicat
 
 ## W3: Log Differencing [5]
 
-[<a href="https://github.com/appmod/StatisticalLogDifferencing">Statistical diffs code</a>]
-
 [<a href="https://github.com/appmod/LogDifferencingTool">2kdiff & nkdiff</a>]
+
+[<a href="https://github.com/appmod/StatisticalLogDifferencing">Statistical diffs code</a>]
 
 ## W4: Effective User Control
 
