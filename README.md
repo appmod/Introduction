@@ -35,6 +35,6 @@ AppMod is a research project on safety and privacy of smart-city mobile applicat
 
 [<a href="https://github.com/appmod/appmod">Android app for user study</a>]
 
-[Modification of Android kernel]
+[<a href="https://github.com/appmod/ModifiedAndroidKernel">Modification of Android kernel</a>]
 
 [Demo]
